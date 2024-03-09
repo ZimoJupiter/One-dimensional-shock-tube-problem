@@ -189,3 +189,29 @@ rhoCentralFoam
 ![image](https://github.com/ZimoJupiter/One-dimensional-shock-tube-problem/blob/main/Pictures%20and%20results/Animation_p.gif)
 
 ![image](https://github.com/ZimoJupiter/One-dimensional-shock-tube-problem/blob/main/Pictures%20and%20results/Animation_u.gif)
+
+### Different time points
+#### rho with solver ####
+![image](https://github.com/ZimoJupiter/One-dimensional-shock-tube-problem/blob/main/Pictures%20and%20results/rho_in_time.png)
+
+
+#### rho with OpenFOAM ####
+![image](https://github.com/ZimoJupiter/One-dimensional-shock-tube-problem/blob/main/Pictures%20and%20results/OpenFOAM_rho_in_time.png)
+
+#### p with solver ####
+![image](https://github.com/ZimoJupiter/One-dimensional-shock-tube-problem/blob/main/Pictures%20and%20results/p_in_time.png)
+
+#### p with OpenFOAM ####
+![image](https://github.com/ZimoJupiter/One-dimensional-shock-tube-problem/blob/main/Pictures%20and%20results/OpenFOAM_p_in_time.png)
+
+#### u with solver ####
+![image](https://github.com/ZimoJupiter/One-dimensional-shock-tube-problem/blob/main/Pictures%20and%20results/u_in_time.png)
+
+#### u with OpenFOAM ####
+![image](https://github.com/ZimoJupiter/One-dimensional-shock-tube-problem/blob/main/Pictures%20and%20results/OpenFOAM_u_in_time.png)
+
+#### T with solver ####
+![image](https://github.com/ZimoJupiter/One-dimensional-shock-tube-problem/blob/main/Pictures%20and%20results/T_in_time.png)
+
+#### T with OpenFOAM ####
+![image](https://github.com/ZimoJupiter/One-dimensional-shock-tube-problem/blob/main/Pictures%20and%20results/OpenFOAM_T_in_time.png)
