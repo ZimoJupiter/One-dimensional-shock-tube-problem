@@ -168,8 +168,11 @@ $$
 
 ## OpenFOAM case
 blockMesh
+
 ![image](https://github.com/ZimoJupiter/One-dimensional-shock-tube-problem/blob/main/Pictures%20and%20results/Mesh.png)
+
 setFields
+
 rhoCentralFoam
 
 ## Results
