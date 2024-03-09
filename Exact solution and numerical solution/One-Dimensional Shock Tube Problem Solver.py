@@ -1,6 +1,7 @@
 """
 @ A program for analytical and numerical solutions for one-dimensional shock tube problem (Riemann problem), and the corresponding OpenFOAM case
 @ author ZimoJupiter
+@ w.zimo@outlook.com
 @ date 08 Mar 2024
 @ license MIT License
 """
