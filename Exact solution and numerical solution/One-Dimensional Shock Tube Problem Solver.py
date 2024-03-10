@@ -238,10 +238,10 @@ x_num_of = x.copy()
 T_num_of = T.copy()
 
 #%% Data of openFoam
-p_openfoam = arr = np.genfromtxt("openFoam_p.txt", delimiter=",", dtype=float)
-u_openfoam = arr = np.genfromtxt("openFoam_u.txt", delimiter=",", dtype=float)
-rho_openfoam = arr = np.genfromtxt("openFoam_rho.txt", delimiter=",", dtype=float)
-T_openfoam = arr = np.genfromtxt("openFoam_T.txt", delimiter=",", dtype=float)
+p_openfoam = np.genfromtxt("openFoam_p.txt", delimiter=",", dtype=float)
+u_openfoam = np.genfromtxt("openFoam_u.txt", delimiter=",", dtype=float)
+rho_openfoam = np.genfromtxt("openFoam_rho.txt", delimiter=",", dtype=float)
+T_openfoam = np.genfromtxt("openFoam_T.txt", delimiter=",", dtype=float)
 
 #%% Results comparison
 plt.figure(figsize=(8, 6), dpi=300)
