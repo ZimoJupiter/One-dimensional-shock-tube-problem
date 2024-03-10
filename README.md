@@ -215,3 +215,10 @@ rhoCentralFoam
 
 #### T with OpenFOAM ####
 ![image](https://github.com/ZimoJupiter/One-dimensional-shock-tube-problem/blob/main/Pictures%20and%20results/OpenFOAM_T_in_time.png)
+
+## References
+[1] GLASS, SOD, Gary A. A survey of several finite difference methods for systems of nonlinear hyperbolic conservation laws. Journal of computational physics, 1978, 27.1: 1-31.
+
+[2] LIU, Xu-Dong; OSHER, Stanley; CHAN, Tony. Weighted essentially non-oscillatory schemes. Journal of computational physics, 1994, 115.1: 200-212.
+
+[3] STEGER, Joseph L.; WARMING, RF617098. Flux vector splitting of the inviscid gasdynamic equations with application to finite-difference methods. Journal of computational physics, 1981, 40.2: 263-293.
