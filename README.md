@@ -53,11 +53,11 @@ Where: $x_s$ and $x_c$ corresponding to displacement of shock wave and contact s
 This project investigates one-dimensional inviscid flow, so the control equations are chosen as one-dimensional Euler equation:
 
 $$
-\left\{\begin{matrix}
+\begin{matrix}
  \displaystyle\frac{\partial\rho}{\partial t} + \displaystyle\frac{\partial(\rho u)}{\partial x} = 0 \\
  \displaystyle\frac{\partial(\rho u)}{\partial t} + \displaystyle\frac{\partial(\rho u^2 +p)}{\partial x} = 0 \\
  \displaystyle\frac{\partial(\rho E)}{\partial t} + \displaystyle\frac{\partial(\rho E u + pu)}{\partial x} = 0 
-\end{matrix}\right.
+\end{matrix}
 $$
 
 Form two new matrices:
@@ -86,10 +86,10 @@ Jacobian matrix $\textbf{A} = \displaystyle\frac{\partial\textbf{F}}{\partial\te
 Split flux vector with Steger-Warming scheme:
 
 $$
-\left\{\begin{matrix}
+\begin{matrix}
         \lambda^+_i = \displaystyle\frac{\lambda_i + |\lambda_i|}{2}\\
         \lambda^-_i = \displaystyle\frac{\lambda_i - |\lambda_i|}{2}
-    \end{matrix}\right.
+\end{matrix}
 $$
 
 $$
